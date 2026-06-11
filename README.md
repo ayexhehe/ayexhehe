@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ayexhehe/ayexhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alex, a Software Engineer and Computer Engineering graduate focused on real-time systems, AI integration, and fleet technology.
 
-Here are some ideas to get you started:
+Currently contributing to a fleet management and dispatch platform that helps organizations monitor vehicles, coordinate operations, and improve transportation efficiency. I work across frontend and backend development, feature delivery, system enhancements, and AI-powered capabilities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+- AI voice assistant with Nova Sonic TTS, VAD, and WebSocket streaming
+- Real-time fleet tracking and dispatch management via MQTT
+- Improving application performance, reliability, and user experience
+
+## 🌱 Currently Learning
+
+- Deeper AWS backend (Lambda, infrastructure-side AI pipelines)
+- Voice UX and conversational AI design
+- Scalable backend systems and software design
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+- JavaScript · TypeScript · Java · C#
+
+**Frontend**
+- React 19 · Vite · Tailwind CSS · shadcn/ui
+
+**Backend & Cloud**
+- AWS AppSync · DynamoDB · S3 · Amazon Bedrock · Chime SDK
+
+**Real-Time & Integration**
+- MQTT · WebSocket · Mapbox GL · Turf.js
+
+**Other Tools**
+- Git · AWS Amplify
+
+---
+
+## 📌 Interests
+
+Software Engineering · Cloud Technologies · Artificial Intelligence · Real-Time Systems · IoT Solutions
