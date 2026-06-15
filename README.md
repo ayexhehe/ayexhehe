@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alex%20Gabutan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20AI%20Integration&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alex%20Gabutan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Outside of engineering, I serve as an elected **SK Councilor** representing **70
 ### 📬 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/alexandergabutan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/alexander-gabutan-86bb08345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alexhuntme123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ayexhehe"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
