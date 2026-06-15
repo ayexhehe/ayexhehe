@@ -10,7 +10,7 @@ I'm a Software Engineer and Computer Engineering graduate working on real-time s
 
 Currently contributing to an enterprise fleet management and dispatch platform, where I've worked on live vehicle tracking, dispatch workflows, AI voice assistants, and video communication features.
 
-Outside of engineering, I serve as an elected SK Councilor representing 70,000+ residents in Barangay Guadalupe — the most populous barangay in Region VII (Central Visayas) per the 2024 PSA Census.
+Outside of engineering, I serve as an elected SK Councilor representing youths in Barangay Guadalupe — the most populous barangay in Region VII (Central Visayas) per the 2024 PSA Census.
 
 ---
 
